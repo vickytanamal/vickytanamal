@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Welcome to My GitHub Profile!
 
-<!--
-**vickytanamal/vickytanamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Vicky and I'm passionate about Data Science.
 
-Here are some ideas to get you started:
+## About Me
+👨‍💻 I switch career from Sales Engineer and now i'm still looking for job in Data Fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I hold a degree in Bachelor of Engineering at Universitas Padjadjaran.
+
+📚 I'm constantly learning and exploring tools like Python, SQL, Power BI and Tableau.
+
+
+## Get in Touch
+
+📫 Feel free to reach out to me through LinkedIn
+
+💬 Let's connect, collaborate, and code together!
+
+Thank you for visiting my GitHub profile. I'm excited to share and learn with the amazing GitHub community. Let's make great things happen! 🚀
