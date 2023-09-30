@@ -1,4 +1,4 @@
-### 👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 
 Hi there! I'm Vicky and I'm passionate about Data Science.
 
